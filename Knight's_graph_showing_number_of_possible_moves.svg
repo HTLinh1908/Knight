@@ -1,0 +1,194 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY ns_svg "http://www.w3.org/2000/svg">
+    <!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg version="1.1" id="Layer_1" width="2700" height="2700" viewBox="0 0 2700 2700" overflow="visible" enable-background="new 0 0 270 270" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify">
+	 
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="77" x2="437" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="77" x2="797" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="437" x2="77" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="437" x2="437" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="437" x2="1157" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="437" x2="1517" y2="77"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="77" x2="77" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="77" x2="797" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="77" x2="1157" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="77" x2="437" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="77" x2="1157" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="77" x2="1517" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="77" x2="1877" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="77" x2="2237" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="77" x2="2597" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="77" x2="77" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="77" x2="437" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="77" x2="1157" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="77" x2="1517" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="77" x2="1877" y2="437"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="77" x2="1517" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="77" x2="1877" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="77" x2="2237" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="77" x2="2597" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="77" x2="797" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="77" x2="1157" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="77" x2="1517" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="77" x2="1877" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="77" x2="2237" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="437" x2="437" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="437" x2="797" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="437" x2="77" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="437" x2="797" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="437" x2="1517" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="437" x2="1877" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="437" x2="2237" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="437" x2="2597" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="437" x2="1877" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="437" x2="1517" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="437" x2="437" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="797" x2="77" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="437" x2="2597" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="437" x2="437" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="437" x2="77" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="437" x2="797" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="437" x2="2597" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="437" x2="2237" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="437" x2="2237" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="437" x2="2597" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="437" x2="797" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="797" x2="2597" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="797" x2="2237" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="437" x2="2237" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="1157" x2="437" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="1157" x2="77" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="797" x2="77" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="797" x2="437" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="797" x2="437" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="797" x2="797" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="797" x2="797" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="797" x2="1877" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="797" x2="437" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="797" x2="1517" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="797" x2="2237" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="797" x2="2597" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="1157" x2="2237" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="797" x2="77" y2="1517"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="797" x2="2237" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="797" x2="2597" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="797" x2="1517" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="797" x2="1157" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="1157" x2="2597" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="1157" x2="2237" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="1157" x2="797" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="797" x2="797" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="1157" x2="2597" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="1157" x2="1517" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="797" x2="1157" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="1157" x2="1157" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="1157" x2="2597" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="1157" x2="2237" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="1157" x2="437" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="1877" x2="797" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1517" y1="2597" x2="797" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="1157" x2="1877" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="437" x2="1157" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="437" x2="1517" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1877" y1="2597" x2="2597" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="2597" x2="2597" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="2597" x2="797" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="2597" x2="77" y2="1877"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="1877" x2="437" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="2237" x2="797" y2="797"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="1517" x2="1877" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="1517" x2="2237" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="1517" x2="2597" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="1517" x2="77" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="1517" x2="437" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="1877" x2="1157" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="1517" x2="2237" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="1517" x2="437" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="77" y1="1877" x2="797" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="1877" x2="77" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="1877" x2="797" y2="1157"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="1877" x2="797" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="2597" x2="77" y2="2237"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="437" y1="2237" x2="1157" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="797" y1="2237" x2="1517" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="2237" x2="1877" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2237" y1="2237" x2="1517" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="2597" y1="2237" x2="1877" y2="2597"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="1157" y1="2237" x2="437" y2="1877"/>
+
+<circle fill="#E2F4FD" stroke="#000000" stroke-width="10" cx="77" cy="77" r="72"/>	<text transform="matrix(1 0 0 1 43   116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">2</text>
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="437" cy="77" r="72"/>	<text transform="matrix(1 0 0 1 403  116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="797" cy="77" r="72"/> <text transform="matrix(1 0 0 1 763  116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="1157" cy="77" r="72"/> <text transform="matrix(1 0 0 1 1123 116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="1517" cy="77" r="72"/> <text transform="matrix(1 0 0 1 1483 116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="1877" cy="77" r="72"/> <text transform="matrix(1 0 0 1 1843 116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="2237" cy="77" r="72"/> <text transform="matrix(1 0 0 1 2203 116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+<circle fill="#E2F4FD" stroke="#000000" stroke-width="10" cx="2597" cy="77" r="72"/> <text transform="matrix(1 0 0 1 2563 116)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">2</text>
+
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="77" cy="437" r="72"/> <text transform="matrix(1 0 0 1 43   476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="437" cy="437" r="72"/> <text transform="matrix(1 0 0 1 403  476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="797" cy="437" r="72"/> <text transform="matrix(1 0 0 1 763  476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="1157" cy="437" r="72"/> <text transform="matrix(1 0 0 1 1123 476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="1517" cy="437" r="72"/> <text transform="matrix(1 0 0 1 1483 476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="1877" cy="437" r="72"/> <text transform="matrix(1 0 0 1 1843 476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="2237" cy="437" r="72"/> <text transform="matrix(1 0 0 1 2203 476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="2597" cy="437" r="72"/> <text transform="matrix(1 0 0 1 2563 476)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="77" cy="797" r="72"/> <text transform="matrix(1 0 0 1 43   836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="437" cy="797" r="72"/> <text transform="matrix(1 0 0 1 403  836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="797" cy="797" r="72"/> <text transform="matrix(1 0 0 1 763  836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1157" cy="797" r="72"/> <text transform="matrix(1 0 0 1 1123 836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1517" cy="797" r="72"/> <text transform="matrix(1 0 0 1 1483 836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1877" cy="797" r="72"/> <text transform="matrix(1 0 0 1 1843 836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="2237" cy="797" r="72"/> <text transform="matrix(1 0 0 1 2203 836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="2597" cy="797" r="72"/> <text transform="matrix(1 0 0 1 2563 836)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="77" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 43   1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="437" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 403  1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="797" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 763  1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1157" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 1123 1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1517" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 1483 1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1877" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 1843 1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="2237" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 2203 1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="2597" cy="1157" r="72"/> <text transform="matrix(1 0 0 1 2563 1196)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="77" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 43   1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="437" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 403  1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="797" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 763  1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1157" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 1123 1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1517" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 1483 1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1877" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 1843 1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="2237" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 2203 1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="2597" cy="1517" r="72"/> <text transform="matrix(1 0 0 1 2563 1556)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="77" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 43   1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="437" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 403  1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="797" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 763  1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1157" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 1123 1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1517" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 1483 1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#91005E" stroke="#000000" stroke-width="10" cx="1877" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 1843 1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">8</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="2237" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 2203 1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="2597" cy="1877" r="72"/> <text transform="matrix(1 0 0 1 2563 1916)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="77" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 43   2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="437" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 403  2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="797" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 763  2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="1157" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 1123 2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="1517" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 1483 2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#A5618A" stroke="#000000" stroke-width="10" cx="1877" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 1843 2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">6</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="2237" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 2203 2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="2597" cy="2237" r="72"/> <text transform="matrix(1 0 0 1 2563 2276)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+
+<circle fill="#E2F4FD" stroke="#000000" stroke-width="10" cx="77" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 43   2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">2</text>
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="437" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 403  2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="797" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 763  2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="1157" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 1123 2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="1877" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 1843 2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#B99BB5" stroke="#000000" stroke-width="10" cx="1517" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 1483 2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">4</text>
+<circle fill="#CCCBDB" stroke="#000000" stroke-width="10" cx="2237" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 2203 2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">3</text>
+<circle fill="#E2F4FD" stroke="#000000" stroke-width="10" cx="2597" cy="2597" r="72"/> <text transform="matrix(1 0 0 1 2563 2636)" font-family="'Myriad-Roman'" font-size="110" startOffset="0">2</text>
+
+</svg>
